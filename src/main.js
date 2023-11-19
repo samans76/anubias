@@ -23,6 +23,7 @@ Vue.use(VueFinalModal({
     dynamicContainerName: 'ModalsContainer'
 }));
 
+// HI mate
 new Vue({
     router,
     render: h => h(App),
